@@ -1,0 +1,9 @@
+.game-area {
+  border: 1px solid gray;
+}
+
+canvas {
+  position: absolute;
+  top: 15%;
+  left: 30%;
+}
